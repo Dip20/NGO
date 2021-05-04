@@ -1,0 +1,57 @@
+.btn-c , .btn-c:focus
+{
+  background-color: #E98074;
+  color: white;
+  border: none !important;
+  outline: none !important;
+}
+.btn-c:hover
+{
+  background-color: #E98074 !important;
+  opacity: 0.8;
+}
+.btn-c-info
+{
+  background-color: rgb(19, 132, 150);
+  color: white;
+  border: none !important;
+  outline: none !important;
+}
+.btn-c-info:hover
+{
+  background-color: #138496 !important;
+  opacity: 0.8;
+}
+
+input:focus , textarea:focus , option:focus , select:focus
+{
+  border: 1px solid #E98074 !important;
+  border-color: #E98074 !important;
+  outline: none  !important;
+  box-shadow: 2px 0px 5px 2px rgba(233,128,116,0.87) !important;
+}
+/* smooth scrool */
+html{
+  scroll-behavior: smooth;
+}
+/* custom scrool bar */
+
+/* width */
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #E89074;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #E87077;
+}

@@ -1,0 +1,36 @@
+/* google font */
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+
+
+nav li{
+  padding: 0 20px;
+  text-transform: uppercase;
+
+}
+.bar{
+text-decoration-line: underline;
+text-decoration-color: #E98074;
+text-decoration-style: solid;
+text-underline-offset: 10px;
+}
+
+.bg-c{
+  background-color: #E85A4F;
+}
+
+.font-c{
+  font-family: 'Kaushan Script', cursive;
+}
+#quote{
+  padding: 80px 0;
+}
+
+#profile{
+  font-size: 18px;
+  text-align: left;
+}
+
+.border-c
+{
+  border: 3px dashed   #E98074;
+}
