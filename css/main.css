@@ -34,3 +34,12 @@ text-underline-offset: 10px;
 {
   border: 3px dashed   #E98074;
 }
+
+.color-custom{
+  color: #E85A4F!important;
+}
+
+.object li{
+  line-height: 35px!important;
+  color: #E85A4F;
+}
